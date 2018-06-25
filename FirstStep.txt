@@ -1,0 +1,112 @@
+Problem 1: Kth Largest Element (Quick Select)
+Don't swap equal element which will cause stacker flow.
+
+Follow up (Kth Largest Element II) the Length of the Array is way larger than K (Priority
+Queue)
+
+Problem 2: 3Sum (Review)
+Most Important is to remove duplicate element in the List.
+
+Problem 3: Triangle Count (Review)
+traverse the longest edge of a triangle and check the number smaller than that
+
+Problem 4: Sort Color 2 (Quick Sort Thought)
+Pay attention to the colors division 
+colors[left] <= pivot
+colors[right] > pivot
+rainbowSort([], from, pivot, left, ...)
+rainbowSort([], pivot + 1, to, ...)
+
+Problem 5: Binary Tree Level Order Traversal (Review)
+When to visit the node.
+Level Order traversal.
+
+******Topological Sort**********
+1. 后面出现的会依赖前面出现的，一定是有向图
+******Breadth First Search******
+1. 无向图 
+2. 最短路径
+3. HashSet
+4. Order of Visiting
+********************************
+
+Problem 6: Number of Islands
+BFS (Union Find)
+Coding Style
+
+Problem 7: Course Schedule I && II
+Topological Sort
+1. Get all of the in degree of all the nodes
+2. Push all of the in degree == 0 node into the queue
+3. BFS the graph once meet one child node its in degree minus one
+4. If meet one in degree == 0 add it to the queue 
+****Be sure to check if the graph has a topological sort***
+
+Problem 8: Serialize and Deserialize Binary Tree
+Level Order BFS 
+
+Problem 9: Word Ladder
+You cannot iterate the dict to get the wanted word. 
+Add the end word into the dict.
+***Use a set to save all of the visited node in case of loop.***
+
+Problem 10: Clone Graph
+Don't add created node into the queue again, use map to store the mapping between original 
+Graph and Cloned graph. (Memory Limited)
+Graph HashSet or Map should be remember. 
+
+Runtime Complexity: O(|V| + |E|) Space Complexity: O(|V| + |E|)
+
+Problem 10: Graph Valid Tree (Review)
+1. The sequence add to the queue.
+2. Separated tree corner case.
+3. edges.length > n - 1 also cannot be a tree.
+
+
+Kafka Hadoop spark cansadra HBase dist
+
+DFS Tree Based
+Problem 11: Flatten Binary Tree to Linked List
+Two ways to solve:
+1. Use stack like iterator 
+2. Use divide and conquer (Review)
+
+Problem 12: Kth Smallest Element in a BST
+1. QuickSelect Solution O(n)
+2. O(h + k) 
+
+Problem 13: Closest Binary Search Tree Value
+Solution 1: Inorder Traversal O(n)
+Solution 2: get LowerBound and HigherBound O(h) (Review)
+***********************
+    private TreeNode lowerBound(TreeNode node, double target) {
+        TreeNode temp = node;
+        TreeNode result = null;
+
+        while (temp != null) {
+            if (temp.val < target) {
+                result = temp;
+                temp = temp.right;
+            } else {
+                temp = temp.left;
+            }
+        }
+
+        return result;
+    }
+************************
+
+Problem 14: Subtree with Maximum Average
+The minimum value for the Double is -Double.MAX_VALUE not Double.MIN_VALUE > 0;
+
+Problem 15: Find Missing Number II & I
+Use dfs to find the path where there is a number miss;
+Corner Case:
+09 0 
+Missing Number I:
+Math Algorithm can solve it easily.
+
+
+
+
+
