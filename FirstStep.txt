@@ -106,8 +106,8 @@ Corner Case:
 Missing Number I:
 Math Algorithm can solve it easily.
 
-Problem 16: 
-
+Problem 16: Remove Invalid Parentheses
+Get the wrong parentheses and remove one by one to see if the string is right
 
 
 
