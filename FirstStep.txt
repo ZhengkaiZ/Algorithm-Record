@@ -109,6 +109,11 @@ Math Algorithm can solve it easily.
 Problem 16: Remove Invalid Parentheses
 Get the wrong parentheses and remove one by one to see if the string is right
 
+Problem 17: Work Break I and II
+1. DFS stack overflow and Memory Limit Exceed 
+2. Memoization method to improve the algorithm
+3. Dynamic Programming techniques needs to be added (***)
+
 
 
 
