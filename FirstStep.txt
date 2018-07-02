@@ -115,5 +115,8 @@ Problem 17: Work Break I and II
 3. Dynamic Programming techniques needs to be added (***)
 
 
+Problem 18: Permutations II
+i != 0 && nums[I] == nums[I - 1] && !vistied[I - 1]
+ 
 
 
