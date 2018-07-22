@@ -117,6 +117,12 @@ Problem 17: Work Break I and II
 
 Problem 18: Permutations II
 i != 0 && nums[I] == nums[I - 1] && !vistied[I - 1]
+
+Problem 19: Merge Sorted Arrays
+Use Heap and build a class which implements Comparable<> override compareTo method
+
+Problem 20: Subarray Sum 
+Build preSum Array to record the sum before the index I.
  
 
 
