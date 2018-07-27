@@ -123,6 +123,14 @@ Use Heap and build a class which implements Comparable<> override compareTo meth
 
 Problem 20: Subarray Sum 
 Build preSum Array to record the sum before the index I.
+
+Problem 21: Interval Questions:
+Compare two intervals
+Input.end < interval.start
+Input.start > interval.end
+Merge two interval 
+
+
  
 
 
