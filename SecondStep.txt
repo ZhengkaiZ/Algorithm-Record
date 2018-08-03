@@ -1,0 +1,17 @@
+August 3:
+1. Subarray Related Problem
+Solution: Segment Tree, Binary Index Tree, PreFix subarray.
+Problems: Subarray Sum Range Sum Query(Binary Index Tree) Maximum Sub-matrix(From 2D to 1D)
+
+2. Merge Two sorted List Problem
+Solution: Heap, Merge Sort plus Merge Sort
+Problems: Merge Sorted Array, Merge K Sorted Arrays
+Plus: Interval Problem
+Solution: to check the boundary of different interval and change the interval or add into
+	  the array/List
+Problem: Merge Two Sorted Interval Lists, Merge K Sorted Interval Lists
+
+3. Median Problem: (Attention !!)
+Solution: Remove, Binary Search(FindKth), FindKth(K - k / 2)
+Problems: Median of Two Sorted Arrays, Median of K Sorted Arrays
+
