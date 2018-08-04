@@ -1,4 +1,4 @@
-August 3:
+August 3rd:
 1. Subarray Related Problem
 Solution: Segment Tree, Binary Index Tree, PreFix subarray.
 Problems: Subarray Sum Range Sum Query(Binary Index Tree) Maximum Sub-matrix(From 2D to 1D)
@@ -14,4 +14,12 @@ Problem: Merge Two Sorted Interval Lists, Merge K Sorted Interval Lists
 3. Median Problem: (Attention !!)
 Solution: Remove, Binary Search(FindKth), FindKth(K - k / 2)
 Problems: Median of Two Sorted Arrays, Median of K Sorted Arrays
+
+August 4th:
+Median Problem Review:
+Solution 1:
+FindKth (k - k / 2) : Boundary Case [3] [4] O(log(m + n))
+FindKth (Binary Search) : Boundary Case count < k !!!
+Remove Method
+
 
