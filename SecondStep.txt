@@ -19,7 +19,25 @@ August 4th:
 Median Problem Review:
 Solution 1:
 FindKth (k - k / 2) : Boundary Case [3] [4] O(log(m + n))
-FindKth (Binary Search) : Boundary Case count < k !!!
-Remove Method
+FindKth (Binary Search) : Boundary Case count < k !!! O(log(Range)(log(m) + log(n))
+Remove Method （Unsolved)
+
+August 5th
+1. Build your own LinkedList to show when the Object showed up 
+Problem : LRU Cache, First Unique Number in Data Streaming
+Solution: Singly List, Double List
+LRU cache: LinkeHashMap 
+
+3. Write Comparator 
+K Closest Points
+
+4. Top K
+Heap(Priority Queue) O(nlog(k))
+Problems : Top K Largest Numbers, K Closest Points, 
+
+5. Ugly Number 
+
+6. Insert Delete Random in O(1)
+
 
 
