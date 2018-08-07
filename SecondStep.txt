@@ -35,9 +35,23 @@ K Closest Points
 Heap(Priority Queue) O(nlog(k))
 Problems : Top K Largest Numbers, K Closest Points, 
 
+August 6th
 5. Ugly Number 
 
 6. Insert Delete Random in O(1)
+Random rand = new Random()
+Rand.nextInt(range)
+
+
+August 7th
+Permutation I & II: O(n! * length of the Array)
+I just normal Permutation DFS 
+II remember to remove duplication values.
+
+NQueens I & II: Worst Case < O(n!)
+
+
+
 
 
 
