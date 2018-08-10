@@ -50,7 +50,16 @@ II remember to remove duplication values.
 
 NQueens I & II: Worst Case < O(n!)
 
+August 8th
+WordPattern: When meet special case, remember to return O(n^2)
+WordSearch: When check the added. O(n ^ 2) not sure
 
+August 9th
+Kth Smallest Number in Sorted Matrix: trick get count from up-right corner to left bottom O(nlog(k))
+
+August 10th
+Word Ladder II: BFS from end to start, DFS from start to end O(nlog(n)) ~ O(n^2)
+Minimum Size Subarray Sum: O(n)
 
 
 
