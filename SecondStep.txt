@@ -61,6 +61,26 @@ August 10th
 Word Ladder II: BFS from end to start, DFS from start to end O(nlog(n)) ~ O(n^2)
 Minimum Size Subarray Sum: O(n)
 
+August 13th
+Subsets I & II: O(x ^ n)
 
+August 21th:
+Dynamic Programming:
+1. State:
+Maximum/Miniumum Yes/No Count
+2. Function:
+Relation between different state
+3. Initialization:
+The start point
+4. Answer:
+The ending point
 
+Rolling Array:
+Fibonacci: use three integer to store the first two integers 
+
+House Robber & House Robber II:
+State: f[i] the Max value from i houses ahead
+Function: f[i] = A[i - 1] + max(f[i - 2] ... f[1])
+initilization: f[0] = 0; f[1] = A[0]
+Answer: f[n]
 
