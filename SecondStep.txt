@@ -84,3 +84,19 @@ Function: f[i] = A[i - 1] + max(f[i - 2] ... f[1])
 initilization: f[0] = 0; f[1] = A[0]
 Answer: f[n]
 
+August 22th:
+
+Array Dynamic Problem:
+Maximal Square:
+1. State:
+f[I][j]: the maximum length of a square
+2. Function:
+f[I][j] = min(f[I - 1][j], f[I][j - 1], f[I][j]) + 1 if maxtrix[I][j] == 1 else = 0
+3. Initialization: 
+f[0][I] = matrix[0][I]
+f[I][0] = matrix[I][0]
+4. Ans:
+max(f[I][j])
+Maximal Square 2:
+
+
