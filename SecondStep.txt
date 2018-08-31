@@ -85,7 +85,6 @@ initilization: f[0] = 0; f[1] = A[0]
 Answer: f[n]
 
 August 22th:
-
 Array Dynamic Problem:
 Maximal Square:
 1. State:
@@ -99,4 +98,22 @@ f[I][0] = matrix[I][0]
 max(f[I][j])
 Maximal Square 2:
 
+August 27th:
+Coins in a Line II:
+State:
+dp[i] 表示取i～ n - 1这些硬币时， 先手取得的最大硬币总价
+Function：
+sum[I] sum (I ~ n - 1)
+
+August 28th:
+Coins in a line I, II & III
+From first state to the desired state:
+I: from first to last to check if the last is true
+II: from the last to first element to check if the first is the largest value
+
+August 30th:
+Interval Dynamic Programming Problem:
+To get the max or min in a interval.
+State is update through interval changes.
+Large interval reply on small interval.
 
