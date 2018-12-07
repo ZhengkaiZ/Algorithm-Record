@@ -1,0 +1,37 @@
+-----------------------------
+Binary Search 16, Dec 2018---
+-----------------------------
+def binary_search(nums, target):
+    if nums == None:
+       return -1 // 
+
+    left = 0
+    right = len(nums) - 1
+    while i + 1 < j:
+        mid = left + (right - left) / 2
+        if nums[mid] < target:
+            left = mid + 1
+            continue
+        if nums[mid] > target:
+            right = mid - 1
+            continue
+        if nums[mid] == target:
+            return mid
+            continue
+
+    if nums[i] == target:
+        return left
+    else:
+        return right
+
+Problem:
+63:  Search in Rotated Sorted Array 
+75:  Find Peak Element
+140: Fast Power
+159: Find Minimum inRotated Sorted Array
+428: Pow(x, n) *** 
+447: Search in a Big Sorted Array
+458: Last Position of Target
+460: Find K Closest Elements
+585: Maximum Number in Mountain Sequence
+
