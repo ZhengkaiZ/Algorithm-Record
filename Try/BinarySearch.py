@@ -23,6 +23,8 @@ def bianry_search(a):
     if right == len(a) - 1 or a[right] != a[right - 1]:
         return right
 
+    return -1
+
 print(bianry_search(a))
 print(bianry_search(b))
 print(bianry_search(c))
