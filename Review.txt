@@ -1,6 +1,6 @@
------------------------------
-Binary Search 16, Dec 2018---
------------------------------
+--------------------------------
+---Binary Search 16, Dec 2018---
+--------------------------------
 def binary_search(nums, target):
     if nums == None:
        return -1 // 
@@ -35,3 +35,12 @@ Problem:
 460: Find K Closest Elements
 585: Maximum Number in Mountain Sequence
 
+----------------------------------------
+Binary Search & Two Poiners 17, Dec 2018
+----------------------------------------
+Problem:
+**:https://github.com/ZhengkaiZ/Algorithm-Record/blob/master/Try/BinarySearch.py
+56: Two Sum (Sorted or Not)
+160: Find Minimum in Rotated Sorted Array II (Binary Search Not Working on this case)
+228: Middle of the Linked List
+608 Two Sum II Input array is sorted
