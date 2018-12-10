@@ -43,4 +43,17 @@ Problem:
 56: Two Sum (Sorted or Not)
 160: Find Minimum in Rotated Sorted Array II (Binary Search Not Working on this case)
 228: Middle of the Linked List
-608 Two Sum II Input array is sorted
+608: Two Sum II Input array is sorted
+
+----------------------------------------
+Two Poiners & BFS 18, Dec 2018
+----------------------------------------
+Two Pointer Problem:
+Merge Sort, Quick Sort, Quick Search 
+57: 3Sum (Time to remove duplciate) 
+143: Sort Colors II ***
+521. Remove Duplicate Numbers in Array
+539: Move Zeroes **
+587: Two Sum - Unique pairs
+609: Two Sum - Less than or equal to target
+
