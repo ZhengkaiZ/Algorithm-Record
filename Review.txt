@@ -57,3 +57,12 @@ Merge Sort, Quick Sort, Quick Search
 587: Two Sum - Unique pairs
 609: Two Sum - Less than or equal to target
 
+----------------------------------------
+Two Poiners & BFS 19, Dec 2018
+----------------------------------------
+Quick Select:
+5: Kth Largest Element (Time Limit, Review)
+69. Binary Tree Level Order Traversal
+433: Number of Islands
+615: Course Schedule
+Toplogical Sorting
