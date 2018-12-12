@@ -63,6 +63,19 @@ Two Poiners & BFS 19, Dec 2018
 Quick Select:
 5: Kth Largest Element (Time Limit, Review)
 69. Binary Tree Level Order Traversal
+127: Toplogical Sorting
 433: Number of Islands
 615: Course Schedule
-Toplogical Sorting
+
+--------------------------------------------
+ BFS, DFS, Binary Search Tree  19, Dec 2018
+--------------------------------------------
+31: Partition Array
+120: Word Ladder
+616: Course Schedule II
+611: Knight Shortest Path I
+624: Remove Substring (str.find)
+
+
+
+
