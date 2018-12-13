@@ -1,5 +1,5 @@
 --------------------------------
----Binary Search 16, Dec 2018---
+---Binary Search 7, Dec 2018---
 --------------------------------
 def binary_search(nums, target):
     if nums == None:
@@ -36,7 +36,7 @@ Problem:
 585: Maximum Number in Mountain Sequence
 
 ----------------------------------------
-Binary Search & Two Poiners 17, Dec 2018
+Binary Search & Two Poiners 8, Dec 2018
 ----------------------------------------
 Problem:
 **:https://github.com/ZhengkaiZ/Algorithm-Record/blob/master/Try/BinarySearch.py
@@ -46,7 +46,7 @@ Problem:
 608: Two Sum II Input array is sorted
 
 ----------------------------------------
-Two Poiners & BFS 18, Dec 2018
+Two Poiners & BFS 9, Dec 2018
 ----------------------------------------
 Two Pointer Problem:
 Merge Sort, Quick Sort, Quick Search 
@@ -58,7 +58,7 @@ Merge Sort, Quick Sort, Quick Search
 609: Two Sum - Less than or equal to target
 
 ----------------------------------------
-Two Poiners & BFS 19, Dec 2018
+Two Poiners & BFS 10, Dec 2018
 ----------------------------------------
 Quick Select:
 5: Kth Largest Element (Time Limit, Review)
@@ -68,7 +68,7 @@ Quick Select:
 615: Course Schedule
 
 --------------------------------------------
- BFS, DFS, Binary Search Tree  19, Dec 2018
+ BFS, DFS, Binary Search Tree  11, Dec 2018
 --------------------------------------------
 31: Partition Array
 120: Word Ladder
