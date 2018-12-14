@@ -75,7 +75,14 @@ Quick Select:
 616: Course Schedule II
 611: Knight Shortest Path I
 624: Remove Substring (str.find)
-
-
-
+--------------------------------------------
+ EMPTY  12, Dec 2018
+--------------------------------------------
+--------------------------------------------
+ BFS, DFS, Binary Search Tree  13, Dec 2018
+--------------------------------------------
+137. Clone Graph
+605. Sequence Reconstruction **********
+618. Search Graph Nodes 
+941: Sliding Puzzle (Optimization)
 
