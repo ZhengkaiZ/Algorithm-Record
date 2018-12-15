@@ -86,3 +86,7 @@ Quick Select:
 618. Search Graph Nodes 
 941: Sliding Puzzle (Optimization)
 
+--------------------------------------------
+DFS, Binary Search Tree  15, Dec 2018
+--------------------------------------------
+605. Sequence Reconstruction
