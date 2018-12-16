@@ -84,9 +84,18 @@ Quick Select:
 137. Clone Graph
 605. Sequence Reconstruction **********
 618. Search Graph Nodes 
+900: Closest Binary Search Tree Value
+596: Minimum Subtree
 941: Sliding Puzzle (Optimization)
 
 --------------------------------------------
 DFS, Binary Search Tree  15, Dec 2018
 --------------------------------------------
+88. Lowest Common Ancestor of a Binary Tree
+93: Balanced Binary Tree
+246. Binary Tree Path Sum II
+480: Binary Tree Paths
+453: Flatten Binary Tree to Linked List
 605. Sequence Reconstruction
+902: Kth Smallest Element in a BST
+
