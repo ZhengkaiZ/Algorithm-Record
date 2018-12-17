@@ -95,7 +95,14 @@ DFS, Binary Search Tree  15, Dec 2018
 93: Balanced Binary Tree
 246. Binary Tree Path Sum II
 480: Binary Tree Paths
-453: Flatten Binary Tree to Linked List
+453: Flatten Binary Tree to Linked List ***
 605. Sequence Reconstruction
 902: Kth Smallest Element in a BST
+
+--------------------------------------------
+DFS, Trees  16, Dec 2018
+--------------------------------------------
+86: Binary Search Tree Iterator
+901: Closest Binary Search Tree Value II (Two solution)
+595: Binary Tree Longest Consecutive Sequence
 
