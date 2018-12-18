@@ -106,3 +106,16 @@ DFS, Trees  16, Dec 2018
 901: Closest Binary Search Tree Value II (Two solution)
 595: Binary Tree Longest Consecutive Sequence
 
+--------------------------------------------
+DFS, Trees  17, Dec 2018
+--------------------------------------------
+17: Subsets
+18: Subsets II
+136: Palindrome Partitioning
+152: Combinations
+153. Combination Sum II
+135: Combination Sum
+426. Restore IP Addresses
+614: Binary Tree Longest Consecutive Sequence II
+619: Binary Tree Longest Consecutive Sequence III
+680: Split String
