@@ -119,3 +119,11 @@ DFS, Trees  17, Dec 2018
 614: Binary Tree Longest Consecutive Sequence II
 619: Binary Tree Longest Consecutive Sequence III
 680: Split String
+
+--------------------------------------------
+Combination $ Permutation DFS  18, Dec 2018
+--------------------------------------------
+108: Palindrome Partitioning II (Time Limit)
+192: WildCard Matching
+582: Word Break II
+
