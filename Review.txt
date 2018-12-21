@@ -165,4 +165,9 @@ def nextPermutation(array):
 52. Next Permutation
 154: Regular Expression Matching
 
+--------------------------------------------
+ Permutation DFS  20, Dec 2018
+--------------------------------------------
+197: Permutation Index
+829: Word Pattern II
 
