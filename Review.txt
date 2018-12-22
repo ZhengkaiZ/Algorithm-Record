@@ -171,3 +171,11 @@ def nextPermutation(array):
 197: Permutation Index
 829: Word Pattern II
 
+--------------------------------------------
+ DFS  20, Dec 2018
+--------------------------------------------
+Trie
+121: Word Ladder II
+132: Word Search II
+198: Permutation Index II *** 
+634: Word Squares (Better Solution Needed) ***
