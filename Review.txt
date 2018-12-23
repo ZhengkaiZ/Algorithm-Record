@@ -174,8 +174,17 @@ def nextPermutation(array):
 --------------------------------------------
  DFS  20, Dec 2018
 --------------------------------------------
-Trie
 121: Word Ladder II
 132: Word Search II
 198: Permutation Index II *** 
 634: Word Squares (Better Solution Needed) ***
+
+----------------------------------------------
+ DFS and Advance Data Structures  21, Dec 2018
+----------------------------------------------
+147: Narcissistic Number (Python Time Exceed)
+442. Implement Trie (Prefix Tree)
+634: Word Squares (Implemented with Trie)
+920. Meeting Rooms
+919: Meeting Rooms II (Sweep Lines)
+
