@@ -188,3 +188,9 @@ def nextPermutation(array):
 920. Meeting Rooms
 919: Meeting Rooms II (Sweep Lines)
 
+----------------------------------------------
+ DFS and Advance Data Structures  21, Dec 2018
+----------------------------------------------
+3Sum with Mutiplicy
+Merge Intervals
+The Skyline Problem
