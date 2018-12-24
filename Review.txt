@@ -191,6 +191,9 @@ def nextPermutation(array):
 ----------------------------------------------
  DFS and Advance Data Structures  21, Dec 2018
 ----------------------------------------------
+35: Reverse Linked List
+36: Reverse Linked List II
+131: The Skyline Problem (Solution Need)
+156: Merge Intervals
 3Sum with Mutiplicy
-Merge Intervals
-The Skyline Problem
+
