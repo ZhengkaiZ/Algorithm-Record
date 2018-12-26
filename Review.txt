@@ -197,3 +197,7 @@ def nextPermutation(array):
 156: Merge Intervals
 3Sum with Mutiplicy
 
+----------------------------------------------
+ DFS and Advance Data Structures  21, Dec 2018
+----------------------------------------------
+461: Kth Smallest Numbers in Unsorted Array(***)
