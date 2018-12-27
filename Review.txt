@@ -177,7 +177,7 @@ def nextPermutation(array):
 121: Word Ladder II
 132: Word Search II
 198: Permutation Index II *** 
-634: Word Squares (Better Solution Needed) ***
+634: Word Squares (Better Solution Needed)
 
 ----------------------------------------------
  DFS and Advance Data Structures  21, Dec 2018
@@ -189,7 +189,7 @@ def nextPermutation(array):
 919: Meeting Rooms II (Sweep Lines)
 
 ----------------------------------------------
- DFS and Advance Data Structures  21, Dec 2018
+ DFS and Advance Data Structures  22, Dec 2018
 ----------------------------------------------
 35: Reverse Linked List
 36: Reverse Linked List II
@@ -198,6 +198,20 @@ def nextPermutation(array):
 3Sum with Mutiplicy
 
 ----------------------------------------------
- DFS and Advance Data Structures  21, Dec 2018
+ DFS and Advance Data Structures  23, Dec 2018
 ----------------------------------------------
-461: Kth Smallest Numbers in Unsorted Array(***)
+461: Kth Smallest Numbers in Unsorted Array (***)
+143: Sort Colors II (***)
+
+----------------------------------------------
+Data Structures  26, Dec 2018
+----------------------------------------------
+51. Previous Permutation
+52: Next Permutation(Review)
+124: Longest Consecutive Sequence
+173: Insertion Sort List
+209: First Unique Character in a String
+494: Implement Stack by Two Queues
+642: Moving Average from Data Stream
+657. Insert Delete GetRandom O(1)
+1753: Doing HomeWork
