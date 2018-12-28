@@ -220,11 +220,13 @@ Data Structures  26, Dec 2018
 Data Structures & Leetcode  26, Dec 2018
 ----------------------------------------------
 LeetCode:
+681: Next Closest Time
 904: Fruit Into Baskets
 929: Unique Email Addresses
 
 LintCode:
 12: Min Stack
+71. Binary Tree Zigzag Level Order Traversal
 526. Load Balancer
 544. Top k Largest Numbers
 601. Flatten 2D Vector
