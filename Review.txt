@@ -215,3 +215,17 @@ Data Structures  26, Dec 2018
 642: Moving Average from Data Stream
 657. Insert Delete GetRandom O(1)
 1753: Doing HomeWork
+
+----------------------------------------------
+Data Structures & Leetcode  26, Dec 2018
+----------------------------------------------
+LeetCode:
+904: Fruit Into Baskets
+929: Unique Email Addresses
+
+LintCode:
+12: Min Stack
+526. Load Balancer
+544. Top k Largest Numbers
+601. Flatten 2D Vector
+612: K Closest Points (Two ways Quick Sort and Min Heap)
