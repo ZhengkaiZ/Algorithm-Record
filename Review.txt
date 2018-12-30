@@ -217,7 +217,7 @@ Data Structures  26, Dec 2018
 1753: Doing HomeWork
 
 ----------------------------------------------
-Data Structures & Leetcode  26, Dec 2018
+Data Structures & Leetcode  27, Dec 2018
 ----------------------------------------------
 LeetCode:
 681: Next Closest Time
@@ -231,3 +231,44 @@ LintCode:
 544. Top k Largest Numbers
 601. Flatten 2D Vector
 612: K Closest Points (Two ways Quick Sort and Min Heap)
+
+----------------------------------------------
+Data Structures & Leetcode  28, Dec 2018
+----------------------------------------------
+LeetCode
+159: Longest Substring with At Most Two Distinct Characters
+399: Evaluate Division
+
+LintCode
+242. Convert Binary Tree to Linked Lists by Depth
+----------------------------------------------
+Data Structures & Leetcode  29, Dec 2018
+----------------------------------------------
+Union Find:
+
+class UnionFind:
+    def __init__(self, n):
+        self.father = []
+        for i in range(n + 1):
+            self.father.append(i)
+
+    def find(self, target):
+        path = []
+        while self.father[target] != target:
+            path.append(target)
+            target = self.father[target]
+
+        for n in path:
+            self.father[n] = target
+
+        return target
+
+    def union(self, a, b):
+        self.father[self.find(a)] = self.find(b)
+
+Leetcode:
+683: K Empty Slots (****)
+399. Evaluate Division(Union Find Optimization ***)
+323: Number of Connected Components in an Undirected Graph (Union ind)
+
+Lintcode:
