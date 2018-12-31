@@ -272,3 +272,16 @@ Leetcode:
 323: Number of Connected Components in an Undirected Graph (Union ind)
 
 Lintcode:
+
+----------------------------------------------
+Data Structures & Leetcode  30, Dec 2018
+----------------------------------------------
+LeetCode:
+857: Minimum Cost to Hire K Workers
+
+LintCode:
+535. House Robber III
+570. Find the Missing Number II
+892. Alien Dictionary
+1210. Increasing Subsequences
+1659: Sell or Buy Stock V
