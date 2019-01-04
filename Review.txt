@@ -285,3 +285,25 @@ LintCode:
 892. Alien Dictionary
 1210. Increasing Subsequences
 1659: Sell or Buy Stock V
+
+----------------------------------------------
+Data Structures & Leetcode  2, Jan 2019
+----------------------------------------------
+124: Longest Consecutive Sequence (O(n))
+
+----------------------------------------------
+Data Structures & Leetcode  3, Jan 2019
+----------------------------------------------
+Union Find:
+Number of Islands 
+Longest Consecutive Sequence
+Surrounded Regions
+Most Stones Removed with Same Row or Column
+
+LeetCode:
+299: Bulls and Cows
+222: Count Complete Tree Nodes
+
+LintCode
+544. Top k Largest Numbers
+1029. Cheapest Flights Within K Stops
