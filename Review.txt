@@ -307,3 +307,14 @@ LeetCode:
 LintCode
 544. Top k Largest Numbers
 1029. Cheapest Flights Within K Stops
+
+----------------------------------------------
+Data Structures & Leetcode  3, Jan 2019
+----------------------------------------------
+LeetCode:
+222: Count Complete Tree Nodes
+642: Design Search Autocomplete System
+833: Find And Replace in String
+
+LintCode:
+545. Top k Largest Numbers II
