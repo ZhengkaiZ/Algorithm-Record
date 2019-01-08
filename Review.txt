@@ -309,7 +309,7 @@ LintCode
 1029. Cheapest Flights Within K Stops
 
 ----------------------------------------------
-Data Structures & Leetcode  3, Jan 2019
+Data Structures & Leetcode  4, Jan 2019
 ----------------------------------------------
 LeetCode:
 222: Count Complete Tree Nodes
@@ -318,3 +318,28 @@ LeetCode:
 
 LintCode:
 545. Top k Largest Numbers II
+
+----------------------------------------------
+Data Structures & Leetcode  5, Jan 2019
+----------------------------------------------
+LintCode:
+134: LRU Cache
+138. Subarray Sum
+547: Intersection of Two Arrays
+839: Merge Two Sorted Interval Lists
+
+----------------------------------------------
+Data Structures & Leetcode  6, Jan 2019
+----------------------------------------------
+129. Rehashing
+405. Submatrix Sum
+486: Merge K Sorted Arrays
+577. Merge K Sorted Interval Lists
+944. Maximum Submatrix
+
+Pending:
+654. Sparse Matrix Multiplication
+----------------------------------------------
+Data Structures & Leetcode  8, Jan 2019
+----------------------------------------------
+
