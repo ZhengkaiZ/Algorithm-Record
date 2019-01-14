@@ -347,4 +347,50 @@ LeetCode:
 42. Trapping Rain Water
 238. Product of Array Except Self
 
+----------------------------------------------
+Data Structures & Leetcode  9, Jan 2019
+----------------------------------------------
+LintCode:
+32. Minimum Window Substring
+148. Sort Colors
+406. Minimum Size Subarray Sum
+625. Partition Array II
 
+LeetCode:
+35: Search Insert Position
+659: Split Array into Consecutive Subsequences
+777: Swap Adjacent in LR String
+939: Minimum Area Rectangle
+
+Three Pointers:
+pl, pr = 0, len(nums) - 1
+i = 0
+while i <= pr:
+    if nums[i] < low:
+        nums[pl], nums[i] = nums[i], nums[pl]
+        pl += 1
+        i += 1
+    elif nums[i] > high:
+        nums[pr], nums[i] = nums[i], nums[pr]
+        pr -= 1
+    else:
+        i += 1
+
+----------------------------------------------
+Data Structures & Leetcode  10, Jan 2019
+----------------------------------------------
+Pending:
+508: Wiggle Sort
+
+LeetCode:
+5: Longest Palindromic Substring
+Lintcode:
+65. Median of two Sorted Arrays
+
+----------------------------------------------
+Data Structures & Leetcode  12, Jan 2019
+----------------------------------------------
+1. 跳楼方法 House Robber Decode Way
+2. Merge Interval, Insert Interval 
+3. Rectangle Overlap 
+4. Valid Word Abbreviation
