@@ -1,0 +1,73 @@
+********************************************************************************
+*1. Is there some similar questions, what is the common part?                  *
+*2. What is this question for, algorithm or pratice (Programming Ability)      *
+*3. Did I finish smoothly on this problem, do i need to practice one more time?*
+********************************************************************************
+
+--------------------
+14 Jan 2019
+--------------------
+Lintcode:
+1562. Number of restaurants
+
+Leetcode:
+Maximum Binary Tree
+Find K Closest Elements
+Copy List with Random Pointer
+
+--------------------
+15 Jan 2019
+--------------------
+LintCode:
+32: Minimum Window Substring (*** How to make kind of order)
+401. Kth Smallest Number in Sorted Matrix (***)
+
+--------------------
+16 Jan 2019
+--------------------
+Lintcode:
+382. Triangle Count
+465. Kth Smallest Sum In Two Sorted Arrays
+543: Kth Largest in N Arrays
+508: Wiggle Sort
+
+LeetCode:
+101: Symmetric Tree (***)
+
+--------------------
+16 Jan 2019
+--------------------
+
+To DO:
+1070: Account Merge
+509: Wiggle Sort II (***)
+
+--------------------
+18 Jan 2019
+--------------------
+TODO:
+Two PQ Get Median
+
+Lintcode:
+590: Connecting Graph II
+591: Connecting Graph II
+178. Graph Valid Tree
+477: Surrounded Regins
+
+--------------------
+	22 Jan 2019
+--------------------
+LintCode:
+1070: Account Merge
+629. Minimum Spanning Tree: Runtime(ElogV) Space: (E + V)
+
+--------------------
+	22 Jan 2019
+--------------------
+Lintcode: 
+575. Decode String (Recursion or non Recursion)
+12: Min Stack (*** 单调栈)
+126: MaxTree(单调栈)
+
+ToDo: 
+Wiggle Sort II
